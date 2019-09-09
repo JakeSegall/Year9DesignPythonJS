@@ -1,0 +1,5 @@
+print("I like swimming")
+print("I like science")
+print("I like playing sqaush")
+print("I like biking")
+print("I like eating pizza")
